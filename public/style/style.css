@@ -1,0 +1,23 @@
+#jumbo {
+    margin: 70px;
+    background: #650a0ae6;
+    color: whitesmoke;
+}
+
+#Button {
+    color: whitesmoke;
+    background: #a58d1c;
+}
+
+#home {
+    background: #650a0ae6;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 200px;
+    text-align: center;
+}
+
+#match {
+    color: whitesmoke;
+    background: #a58d1c;
+}
