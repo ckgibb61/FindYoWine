@@ -131,7 +131,7 @@ const wine = [
         p2: "Fruity",
         p3: "Medium Body",
         p4: "Red Berry",
-        p5: "clove and Caramal"
+        p5: "clove and Caramel"
     }
    
 
